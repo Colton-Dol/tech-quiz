@@ -6,7 +6,7 @@ This app simply lets you take a quiz where you have to answer technical question
 
 ## Installation
 
-This app is not hosted, so you have to run it locally. First, you'll need to install any dependencies by typing `npm install` in the command line. Next, you'll want to run `npm run build`. You'll have to rename the .env.EXAMPLE file to just .env and then run `npm run seed` to get the questions. If you want to make sure everything is displaying properly, you can run `npm run test:component`. If you encounter issues or just want to make sure everything is functioning correctly, you can run `npm test` in a new terminal after you've started the application. You can find a video on how to run the app [here]().
+This app is not hosted, so you have to run it locally. First, you'll need to install any dependencies by typing `npm install` in the command line. Next, you'll want to run `npm run build`. You'll have to rename the .env.EXAMPLE file to just .env and then run `npm run seed` to get the questions. If you want to make sure everything is displaying properly, you can run `npm run test:component`. If you encounter issues or just want to make sure everything is functioning correctly, you can run `npm test` in a new terminal after you've started the application. You can find a video on how to run the app [here](https://drive.google.com/file/d/1IeWwfqYmicBHYbDHzJM3CypXgQKfqI4K/view?usp=sharing).
 
 ## Usage
 
